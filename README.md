@@ -1,3 +1,3 @@
 # Blog
 
-链接地址:[John's Blog](https://johnwang0930.github.io/blog/)
+详情请点击[John's Blog](https://johnwang0930.github.io/blog/)
