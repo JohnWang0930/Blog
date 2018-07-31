@@ -1,5 +1,5 @@
 ---
-title: '''搬运csdn的文章[一些flex布局的整理]'''
+title: 搬运csdn的文章[一些flex布局的整理]
 date: 2018-07-31 15:55:17
 tags:
 ---
@@ -10,8 +10,8 @@ tags:
 >很久之前在学flex，今天就稍微整理一下发上来，希望大家能够提出意见和建议哈。
 
 ---
-###Flex
-####flex容器属性：
+### Flex
+#### flex容器属性：
 - flex-direction：
  - rows(水平)
  - row-reverse（反向水平）
@@ -41,7 +41,8 @@ tags:
  - space-between
  - space-around
  - stretch
-####flex容器下子元素属性：
+ 
+#### flex容器下子元素属性：
 - order：（排列顺序，value为数字，默认为0）
  - flex-grow：（子元素放大比例，默认为0，不缩放）
  - flex-shrink：（子元素缩小比例，默认为1，等比缩小，设置成0时不缩小）
