@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: John's Blog
 subtitle:
-description:
-keywords:
-author: John Doe
+description: 一个记录前端点滴的博客
+keywords: 前端 web 开发 vue 小程序 react
+author: John
 language:
 timezone:
 
@@ -73,11 +73,11 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy: 
   type: git
-  repo: https://github.com/JohnWang0930/Blog.git
-  branch: production
+  repo: https://github.com/JohnWang0930/johnwang0930.github.io.git
+  branch: master

@@ -2,7 +2,96 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1158e8aa-ad0a-4b00-92c4-81c28885e3ee" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/source/_posts/hello-world.md" afterPath="" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/themes/next" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Hello-World.md" afterPath="$PROJECT_DIR$/source/_posts/Hello-World.md" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/Gruntfile.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/_config.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/languages/de.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/languages/default.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/languages/es.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/languages/fr.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/languages/ja.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/languages/ko.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/languages/nl.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/languages/no.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/languages/pt.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/languages/ru.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/languages/zh-CN.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/languages/zh-TW.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/after-footer.ejs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/archive-post.ejs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/archive.ejs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/article.ejs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/footer.ejs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/gauges-analytics.ejs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/google-analytics.ejs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/head.ejs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/header.ejs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/mobile-nav.ejs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/post/category.ejs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/post/date.ejs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/post/gallery.ejs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/post/nav.ejs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/post/tag.ejs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/post/title.ejs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_partial/sidebar.ejs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_widget/archive.ejs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_widget/category.ejs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_widget/recent_posts.ejs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_widget/tag.ejs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/_widget/tagcloud.ejs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/archive.ejs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/category.ejs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/index.ejs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/layout.ejs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/page.ejs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/post.ejs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/layout/tag.ejs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/scripts/fancybox.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_extend.styl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/archive.styl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/article.styl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/comment.styl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/footer.styl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/header.styl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/highlight.styl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/mobile.styl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/sidebar-aside.styl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/sidebar-bottom.styl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_partial/sidebar.styl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_util/grid.styl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_util/mixin.styl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/_variables.styl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/fonts/FontAwesome.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/images/banner.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/css/style.styl" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/blank.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/fancybox_loading.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/fancybox_loading@2x.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/fancybox_overlay.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/fancybox_sprite.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/fancybox_sprite@2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/fancybox_buttons.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-buttons.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-buttons.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-media.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-thumbs.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/helpers/jquery.fancybox-thumbs.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/jquery.fancybox.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/jquery.fancybox.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/fancybox/jquery.fancybox.pack.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/themes/landscape/source/js/script.js" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,12 +102,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Hello-World.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="227">
+              <caret line="75" column="11" lean-forward="false" selection-start-line="75" selection-start-column="11" selection-end-line="75" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/next/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="117" column="0" lean-forward="false" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Hello-World.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_posts/Hello-World.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="704">
-                <caret line="32" column="26" lean-forward="false" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+              <first_editor relative-caret-position="110">
+                <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -28,6 +137,13 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>theme</find>
+      <find>Scheme</find>
+      <find># Schemes</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -35,6 +151,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/source/_posts/Hello-World.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/themes/next/_config.yml" />
       </list>
     </option>
   </component>
@@ -87,6 +205,11 @@
               <item name="source" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="_posts" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="johnwang0930.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="johnwang0930.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -98,6 +221,7 @@
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -124,33 +248,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533002050816</updated>
-      <workItem from="1533002053095" duration="819000" />
+      <workItem from="1533002053095" duration="5574000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="819000" />
+    <option name="totallyTimeSpent" value="5574000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -188,14 +320,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/Hello-World.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="704">
-            <caret line="32" column="26" lean-forward="false" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+          <first_editor relative-caret-position="110">
+            <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/landscape/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="75" column="11" lean-forward="false" selection-start-line="75" selection-start-column="11" selection-end-line="75" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/next/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="117" column="0" lean-forward="false" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
