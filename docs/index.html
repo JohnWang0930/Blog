@@ -233,6 +233,139 @@
   
   
   <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/blog/2018/08/06/近期学习webpack的一些感悟/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="John">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/blog/images/avatar.gif">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="John's Blog">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+                
+                <a class="post-title-link" href="/blog/2018/08/06/近期学习webpack的一些感悟/" itemprop="url">近期学习webpack的一些感悟</a></h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">Posted on</span>
+              
+              <time title="Post created" itemprop="dateCreated datePublished" datetime="2018-08-06T23:22:59+08:00">
+                2018-08-06
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+
+          
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          
+            <blockquote>
+<p>最近在学习webpack，从刚开始的云里雾里到现在略懂一二</p>
+</blockquote>
+<p>刚开始学webpack，手头上正好有小程序项目，所以方向是结合小程序写一个webpack</p>
+<p>目前小程序的技术栈：原生小程序+scss</p>
+<p>尝试了几天发现小程序并不适用于webpack打包，几个原因:</p>
+<ol>
+<li>微信开发工具会进行打包压缩上传，所以必须使用不同chunk作为页面</li>
+<li>webpack会将引入资源打包到当前chunk内，产生重复代码（没有实现commonchunk，原因是不知道怎么实现自动改变引入资源路径）</li>
+</ol>
+<blockquote>
+<p>此处因为这些原因，所以转换思路为：保持目录结构不变，实现1.babel降级实现async等微信不支持的es6语法 2.scss编译</p>
+</blockquote>
+<p>后期方向：使用node制作一个脚本实现如上两个功能（最好能够实现watch功能）</p>
+
+          
+        
+      
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
     <link itemprop="mainEntityOfPage" href="http://yoursite.com/blog/2018/07/31/一些git常用并且比较难记的语法整理/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -889,7 +1022,7 @@
               
                 <a href="/blog/archives/">
               
-                  <span class="site-state-item-count">4</span>
+                  <span class="site-state-item-count">5</span>
                   <span class="site-state-item-name">posts</span>
                 </a>
               </div>
