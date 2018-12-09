@@ -87,7 +87,7 @@
 <meta property="og:site_name" content="John&#39;s Blog">
 <meta property="og:description" content="Hi all 好久没更新博客了，最近在学go，期间写了一个简单的发邮件脚本，地址可以参照goDeno 如果有任何意见和建议 可以给我留言哈。     下面简单列一些知识点，不会按照体系列出来，纯粹是个人认为的一些比较重要的知识点。     func main一定要在main包内  在同一个文件夹中的包必须是同样的包名  import _ &amp;#39;...&amp;#39; 执行...包内init函数">
 <meta property="og:locale" content="default">
-<meta property="og:updated_time" content="2018-11-24T15:37:03.529Z">
+<meta property="og:updated_time" content="2018-12-09T09:03:45.202Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="go初学的一些知识点整理">
 <meta name="twitter:description" content="Hi all 好久没更新博客了，最近在学go，期间写了一个简单的发邮件脚本，地址可以参照goDeno 如果有任何意见和建议 可以给我留言哈。     下面简单列一些知识点，不会按照体系列出来，纯粹是个人认为的一些比较重要的知识点。     func main一定要在main包内  在同一个文件夹中的包必须是同样的包名  import _ &amp;#39;...&amp;#39; 执行...包内init函数">
@@ -333,8 +333,38 @@
 </li>
 <li><p>包查找顺序<code>./vendor -&gt; GOROOT -&gt; GOPATH</code></p>
 </li>
+<li><p>初始化函数执行顺序：导入顺序a-&gt;b-&gt;c；init函数执行顺序c-&gt;b-&gt;a-&gt;main</p>
+</li>
+<li><p>数组特性</p>
+</li>
 </ul>
-<p>先写到这 晚点有空再更新这篇博客</p>
+<ol>
+<li>长度固定</li>
+<li>下标紧邻</li>
+<li>类型相同</li>
+<li>内存连续分配</li>
+<li>索引快</li>
+</ol>
+<ul>
+<li>切片包含</li>
+</ul>
+<ol>
+<li>指向底层连续内存的指针</li>
+<li>长度</li>
+<li>最大容量</li>
+</ol>
+<ul>
+<li><p>切片超出容量时，会创建新的底层数组并复制原来储存的内容，容量&lt;=1000时增加100%，反之则增加25%</p>
+</li>
+<li><p>len（x）返回长度 cap（x）返回容量</p>
+</li>
+<li><p>引用类型:slice map func chan interface 除此之外的类型都是值类型</p>
+</li>
+<li><p><code>runtime.GOMAXPROCS(runtime.NUMCPU())</code>能够为每个核创建一个线程</p>
+</li>
+<li><p>两个goroutine同时对一个变量进行值操作可能会引起竞争，解决办法：用<code>atomic.AddInt64</code>、<code>mutex.Lock()</code>、<code>chan</code>等方法进行解决</p>
+</li>
+</ul>
 
       
     </div>
